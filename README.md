@@ -1,6 +1,6 @@
 # Leetcode Top 75 Interview Questions
 
-Welcome to the repository for the **Leetcode Top 75 Interview Questions**. This repository is designed to help you master the most common technical interview questions, preparing you for your next coding interview.
+Welcome to the repository for the **Leetcode Top 75 Interview Questions**. This repository is designed to help you master the most common technical interview questions, preparing you for my own next coding interview.This act as a last minute notes for me
 
 ## Study Plan
 
